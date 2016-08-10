@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+body{
+    font: normal 8pt verdana, helvetica, sans-serif;
+}
+
+table#t01 {
+    width:100%;
+}
+
+table#t01, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+
+th {
+	background-color: #bbb;
+    color: black;
+}
+

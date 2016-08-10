@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+h1 {
+	font-size:150%;
+	color: blue;
+}
+
+label
+{
+    display: block;
+    width: 150px;
+    float: left;
+}
+
+.titre_result {
+	color: blue;
+}

@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+body{
+    font: normal 8pt verdana, helvetica, sans-serif;
+}
+
+table {
+    width:100%;
+    font-size: 120%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;    
+}
+
+td {
+    padding: 5px;
+    text-align: center;    
+}
