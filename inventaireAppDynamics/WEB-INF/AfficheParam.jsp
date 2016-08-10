@@ -8,7 +8,7 @@
 <title>Param&egrave;tres de configuration</title>
 </head>
 <body>
-	<!--Ce serait bien de mettre tout ceci dans un tableau -->
+	<!--Ce serait bien de mettre tout ceci dans un tableau avec des couleurs-->
 	<pr>
 	<c:forEach items="${mapParamAppli}" var="mapItem">
 		<c:if test="${mapItem.key != 'passwordApm'}">
