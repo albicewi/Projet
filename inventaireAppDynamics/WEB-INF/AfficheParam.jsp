@@ -8,7 +8,6 @@
 <title>Param&egrave;tres de configuration</title>
 </head>
 <body>
-	<!-- Ce serait mieux dans un tableau, hein ? -->
 	<pr>
 	<c:forEach items="${mapParamAppli}" var="mapItem">
 		<c:if test="${mapItem.key != 'passwordApm'}">
